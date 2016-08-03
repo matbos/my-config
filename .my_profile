@@ -1,0 +1,3 @@
+## Set My environment variables
+export ANDROID_HOME="~/development/sdk"
+export PATH=$PATH":"$ANDROID_HOME":"$ANDROID_HOME"/platform-tools:"$ANDROID_HOME"/tools"
